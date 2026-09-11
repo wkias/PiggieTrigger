@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PiggieTrigger</string>
+    <string name="accessibility_description">用于通过音量键触发自动点击功能的无障碍服务</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 猪鼻外轮廓 -->
+    <path
+        android:fillColor="#FF8DA1"
+        android:pathData="M54,29 C70,29 83,40 83,54 C83,68 70,79 54,79 C38,79 25,68 25,54 C25,40 38,29 54,29 Z" />
+    <!-- 鼻孔 -->
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M43,54 A6,9 0 1,1 43,53.9 M65,54 A6,9 0 1,1 65,53.9" />
+</vector>
